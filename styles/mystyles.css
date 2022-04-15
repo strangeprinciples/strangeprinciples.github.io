@@ -1,0 +1,52 @@
+body {
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/images/bg1.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    /*image credit Photo by <a href="https://unsplash.com/@ikoveliko?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Veliko Karachiviev</a> on <a href="https://unsplash.com/s/photos/forest-autumn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>8*/
+}
+
+div.center {
+    text-align: center;
+}
+
+.section-heading .section-heading-lower {
+    display: block;
+    font-size: 2.5rem;
+    font-weight: 150;
+    font-style: oblique;
+    
+}
+
+.section-heading .section-heading-upper {
+    display: block;
+    font-size: 1rem;
+    font-weight: 800;
+    text-decoration: underline 2px;
+  }
+
+  .title {
+    font-weight: bold;
+    font-style: normal;
+}
+
+.common {
+    position: absolute;
+}
+
+.text {
+    text-align: center;
+}
+
+.btt {
+    font-style: italic;
+}
+
+a {
+    color: #916a55 ;
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+    }
